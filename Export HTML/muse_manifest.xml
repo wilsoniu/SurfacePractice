@@ -1,0 +1,43 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mP3SurfaceStudyRuilin26816865.com" resolutions="1x,2x" timestamp="1553176774430">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4286346116" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img_7191_1.jpg" crc="3796530909" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_7191_1_2x.jpg" crc="251152530" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1181_2x.png" crc="3833474772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1181_2x_2x.png" crc="77753551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="surface practice_working_study1.jpg" crc="471538057" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="surface practice_working_study1_2x.jpg" crc="4053789183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="surface practice_working_study2.jpg" crc="193386948" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="surface practice_working_study2_2x.jpg" crc="342419279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4240259216" seo="true" mt="1553176693044" redirect="true"/>
+</manifest>
